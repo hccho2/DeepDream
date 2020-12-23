@@ -4,6 +4,7 @@
 - ipywidget을 이용하여, 편리하게 parameter 변경
 - zooming 효과로 이미지 생성
 - animated git 생성
+- 구현코드는 jupyte notebook [파일]().
 
 
 
