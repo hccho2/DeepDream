@@ -14,6 +14,7 @@
 # jupyte Notebook에 구현된 내용들
 - tensorflow 1.x로 train된 proto buffer(pb) 파일을 다운받은 후, tensorflow 2.x에서 로드.
 - ipywidget을 이용하여, 편리하게 parameter 변경
+   ![img9](./ipywidget.png)
 - zooming 효과로 이미지 생성
 - animated git 생성
 - 구현코드는 jupyte notebook [파일](https://github.com/hccho2/DeepDream/blob/main/deemdream_InceptionV1_TF2.ipynb).  --> google colab에서 작성했습니다.
