@@ -3,6 +3,7 @@
 
 
 ## 왜 Inception V1인가?
+
 - Inception V1 model를 이용하여 이미지 생성
     * [Tensorflow Tutorial](https://www.tensorflow.org/tutorials/generative/deepdream?hl=ko)에 Deep Dream에서는 Inception V3 모델을 사용하고 있고, 제가 본 몇몇 책에서도 Inception V3를 사용.
     * Inception V3로 이미지를 생성하면, 좀 멋진(?) 이미지가 잘 안 나옴. 아래 그림을 보면, 뭔가 좀 부족해 보인다.
@@ -10,6 +11,7 @@
     
     * Inception V1이 Inception V3보다 더 다양한 이미지를 잘 만듬.
    ![img8](./img8_v1.png)
+    * Inception V1의 pre-trained weight는 proto buffer(pb)파일이라, tensorflow 2.x에서 사용하기 위해서는 추가 작업이 필요.
 
 # jupyte Notebook에 구현된 내용들
 - tensorflow 1.x로 train된 proto buffer(pb) 파일을 다운받은 후, tensorflow 2.x에서 로드.
