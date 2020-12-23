@@ -15,5 +15,3 @@
 ![img3](./img3.jpg)
 
 ![img4](./img4.jpg)
-
-![img4](./img4.jpg)
