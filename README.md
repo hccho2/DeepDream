@@ -1,5 +1,5 @@
 # DeepDream, Inception V1, Tensorflow 2.x
-<img src="https://drive.google.com/uc?export=view&id=<11_Oe9DQE3sHSxaT2Ac7QYjEnHlcfgJsE>" width="90%"></img>
+<a href="https://drive.google.com/uc?export=view&id=<11_Oe9DQE3sHSxaT2Ac7QYjEnHlcfgJsE>"><img src="https://drive.google.com/uc?export=view&id=<11_Oe9DQE3sHSxaT2Ac7QYjEnHlcfgJsE>" style="width: 650px; max-width: 100%; height: auto" title="Deep Dream Zoom" />
 
 
 ## 왜 Inception V1인가?
