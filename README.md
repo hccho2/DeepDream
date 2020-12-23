@@ -7,7 +7,7 @@
     ![img7](./img7_v3.png)
     
     * Inception V1이 Inception V3보다 더 다양한 이미지를 잘 만듬.
-
+   ![img8](./img8_v1.png)
 
 # jupyte Notebook에 구현된 내용들
 - tensorflow 1.x로 train된 proto buffer(pb) 파일을 다운받은 후, tensorflow 2.x에서 로드.
