@@ -5,7 +5,7 @@
 - ipywidget을 이용하여, 편리하게 parameter 변경
 - zooming 효과로 이미지 생성
 - animated git 생성
-- 구현코드는 jupyte notebook [파일]().
+- 구현코드는 jupyte notebook [파일](https://github.com/hccho2/DeepDream/blob/main/deemdream_InceptionV1_TF2.ipynb).  --> google colab에서 작성했습니다.
 
 ![img5](./img5.png)
 
