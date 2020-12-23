@@ -1,4 +1,6 @@
 # DeepDream, Inception V1, Tensorflow 2.x
+<img src="https://drive.google.com/file/d/11_Oe9DQE3sHSxaT2Ac7QYjEnHlcfgJsE/view?usp=sharing" width="90%"></img>
+
 
 ## 왜 Inception V1인가?
 - Inception V1 model를 이용하여 이미지 생성
